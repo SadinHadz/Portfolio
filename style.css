@@ -122,8 +122,10 @@ body {
 }
 .mt-8{
   margin-top: 4em;
+         }
+.mt-9{
+  margin-top: 6em;
 }
-
 
 
 .ml-1 {
@@ -535,7 +537,8 @@ h3 {
   color: #04253a;
 }
 .color02{
-  color: #049af7;
+  color: #7eceff;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.295);
 }
 /* Add a black background color to the top navigation */
 .topnav {
@@ -570,7 +573,10 @@ h3 {
   margin: 30px 0 20px 20px;
   cursor: pointer;
 }
-
+.sirinaa{
+  width: 10em !important;
+  margin-top: 3em !important;
+}
 .bar {
   height: 5px;
   width: 100%;
@@ -579,7 +585,11 @@ h3 {
   border-radius: 5px;
   transition: 0.3s ease;
 }
-
+#logoi{
+  width: 4em;
+  height: 3em;
+  margin-top: 2em;
+}
 #bar1 {
   transform: translateY(-4px);
 }
